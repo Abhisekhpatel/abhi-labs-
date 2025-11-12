@@ -17,5 +17,4 @@ A safety layer that sits between AI agents and real-world actions, providing:
 - Deployment: Docker + Railway
 
 - ## Contact
-[abhisekhpatel13@gmail.com
-]
+[abhisekhpatel13@gmail.com]
